@@ -1,0 +1,18 @@
+{
+	"Debug": true,
+	
+	"Youtube": {
+		"Enabled": true,
+		"Youtube_v3_api_key": "{Place-Youtube-V3-API-Key-Here}",
+		"Tracking": {
+			"Playlist": [
+				"PLe1OAB1WBiG4wFReBIsW96wMe_O4sSjiV",
+				"PLe1OAB1WBiG7yQKTW6Xrazq1RixrZh_Er"
+			]
+		}
+	},
+	
+	"BiliBili": {
+		"Enabled": false
+	}
+}
