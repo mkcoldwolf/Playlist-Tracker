@@ -15,7 +15,7 @@ Playlist Tracker is a program written in PHP and its for people those who dont w
 
 ### Installation
   - ```cd ~``` //Go to ur desktop
-  - ```clone https://github.com/mkcoldwolf/Playlist-Tracker```
+  - ```git clone https://github.com/mkcoldwolf/Playlist-Tracker```
   - ```cd Playlist-Tracker```
   - ```composer install``` //install libs with composer, install [composer](https://getcomposer.org/download/) if u do not
   - Get a youtube v3 api key and place it on `/userdata/config.json`
